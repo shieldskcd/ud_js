@@ -7,3 +7,7 @@ This repository will house the code from the Academind course
 3. Installed the Material Icon Theme Extension for VS Code as suggested by the author.
 4. Installed the Prettier extension for VS Code as suggested by the author. 
 5. Created a course FAQ for review. 
+
+## Module 2
+1. Downloaded the "Unconventional Calculator" code from the course.
+2. Created the Git FAQ document
