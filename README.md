@@ -23,4 +23,7 @@ This repository will house the code from the Academind course
 12. Used the backtick (`) to force the use of a *template literal* in curly braces { }.
 13. Downloaded the "Practice Variables, Constants, Operators, & Core Data Types" to begin the assignment.
 14. Created a small javascript file that takes a number and performs various operations on it. Ultimately we use alerts to present the data that was delivered with that program. 
-
+15. Created a function to add numbers and make an alert notification on the page.
+16. Called the function to add multiple numbers to confirm it is working.
+17. Modified the results of the new function to return a value that can be stored rather than simply popping up the alert box. 
+18. Modified the currentResult data to call the function we created rather than use hard-coded values. 
