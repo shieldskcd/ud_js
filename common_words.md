@@ -29,4 +29,5 @@ function MyNumber(number) {
 }
 ```
 The function would return the value of number.
+
 **Important Note** Once you execute the `return` function in a code snippet, **no other code will be executed in the block afterward**.
