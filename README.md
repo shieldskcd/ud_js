@@ -27,3 +27,7 @@ This repository will house the code from the Academind course
 16. Called the function to add multiple numbers to confirm it is working.
 17. Modified the results of the new function to return a value that can be stored rather than simply popping up the alert box. 
 18. Modified the currentResult data to call the function we created rather than use hard-coded values. 
+19. Downloaded the material for the assignment 2 assignment.
+20. Created three functions per the assignment 2 instructions: one that displays a message "hi there!", one that takes a parameter (i.e. - Dave) and displays a message ("Hi there, Dave"), and one that takes 3 parameters and concatenates them before displaying.
+21. Using the pre-built item ID, I linked the second function to trigger on the click of the third button on the HTML page. 
+22. Finally, I added a new event ID to the assignment 2 HTML file for the final box and used the same code from item 21 to trigger the results when someone clicks on the final box. 
