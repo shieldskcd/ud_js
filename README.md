@@ -31,3 +31,5 @@ This repository will house the code from the Academind course
 20. Created three functions per the assignment 2 instructions: one that displays a message "hi there!", one that takes a parameter (i.e. - Dave) and displays a message ("Hi there, Dave"), and one that takes 3 parameters and concatenates them before displaying.
 21. Using the pre-built item ID, I linked the second function to trigger on the click of the third button on the HTML page. 
 22. Finally, I added a new event ID to the assignment 2 HTML file for the final box and used the same code from item 21 to trigger the results when someone clicks on the final box. 
+23. Modified the calculator script to use the parseInt keyword so that the values will be created as numbers rather than as a text string. 
+24. Learned about how to use the .toString() to force values to become strings.
